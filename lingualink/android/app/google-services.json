@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374797709988",
+    "project_id": "lingualink-4d6e8",
+    "storage_bucket": "lingualink-4d6e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374797709988:android:0cc7883881522a3f96ac31",
+        "android_client_info": {
+          "package_name": "com.example.lingualink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIIX2vYzna5cP6fLtmLozSgj22X05ALtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
